@@ -1,0 +1,4 @@
+For Login used Email and Pasword as attributes.
+For Register used Username, Email and Password as attributes.
+For Bank Details Used Bank name, Branch name, Branch Code, Account Number as attributes.
+Branch code is considered as 3 digit integer. Account number is considered as 18 digit varchar.
